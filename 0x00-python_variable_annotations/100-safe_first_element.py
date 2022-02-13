@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
-''' Augment the following code with the correct duck-typed annotations:
-
-You need to keep the same order to pass the checks (Union[Any, None]).
+''' Augment the following
+code with the correct duck-typed annotations:
+You need to keep the same order to pass the
+checks (Union[Any, None]).
 '''
 
 from typing import Sequence, Any, Union
