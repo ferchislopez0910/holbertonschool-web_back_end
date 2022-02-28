@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
-"""
-Main file
+""" Main file
 """
 
 filter_datum = __import__('filtered_logger').filter_datum
@@ -10,3 +9,4 @@ messages = ["name=egg;email=eggmin@eggsample.com;password=eggcellent;date_of_bir
 
 for message in messages:
     print(filter_datum(fields, 'xxx', message, ';'))
+    
