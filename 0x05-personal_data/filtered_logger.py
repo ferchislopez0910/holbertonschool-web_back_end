@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
-''' Regex-ing: filter_datum
-    Log formatter: class RedactingFormatter
-    Create logger
-    Connect to secure database
+''' Regex-ing: filter_datum - Log formatter: class 
+    RedactingFormatter
+    Create logger -    Connect to secure database
     Read and filter data
 '''
+
 
 import re
 from typing import List
