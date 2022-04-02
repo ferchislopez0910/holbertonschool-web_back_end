@@ -1,4 +1,4 @@
-# 0x10. ES6 classes
+﻿# 0x0F. ES6 Promises
 
 ### Authors :black_nib:
 * __Maria Fernanda Lopez__
